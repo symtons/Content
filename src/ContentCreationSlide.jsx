@@ -332,7 +332,7 @@ const ContentCreationSlide = () => {
       <div className="slide-content">
         <div className="slide-header">
           <h1 className="slide-title">
-            FACELESS CONTENT CREATION
+             CONTENT CREATION
           </h1>
           <p className="slide-subtitle">Building an Automated Content Empire Across Multiple Platforms</p>
         </div>

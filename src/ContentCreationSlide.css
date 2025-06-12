@@ -570,19 +570,19 @@
 
 /* Animation classes */
 .animate-fadeIn {
-  animation: fadeIn 0.5s ease-out forwards;
+  animation: fadeIn 7s ease-out forwards;
 }
 
 .animate-slideIn {
-  animation: slideIn 0.4s ease-out forwards;
+  animation: slideIn 7s ease-out forwards;
 }
 
 .animate-slideInRight {
-  animation: slideInRight 0.5s ease-out forwards;
+  animation: slideInRight 7s ease-out forwards;
 }
 
 .animate-slideInUp {
-  animation: slideInUp 0.5s ease-out forwards;
+  animation: slideInUp 7s ease-out forwards;
 }
 
 /* Media queries for responsiveness */
